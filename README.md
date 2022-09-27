@@ -1,4 +1,4 @@
-### Hi I'm Douglas  👋
+### My name is Douglas and I'm a Web Developer.  👋
 </br>
 
 <div align="center">
