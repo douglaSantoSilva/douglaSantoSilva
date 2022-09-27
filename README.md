@@ -1,4 +1,4 @@
-### Hi 👋, I'm Douglas. 🧑‍💻
+### Hi, I'm Douglas. 🧑‍💻
 </br>
 
 <div align="center">
