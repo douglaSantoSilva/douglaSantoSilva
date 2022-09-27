@@ -1,6 +1,6 @@
 ### Hi there 👋
 </br>
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/douglaSantoSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaSantoSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaSantoSilva&layout=compact&langs_count=7&theme=dracula"/>
