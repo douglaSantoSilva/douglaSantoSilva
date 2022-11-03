@@ -1,7 +1,7 @@
 ### Hi, I'm Douglas. 🧑‍💻
 <p>
 🔭 Em busca da minha primeira oportunidade como Front-end <br>
-📖 Estudando tecnologias como React e Node.js<br>
+📖 Estudando tecnologias como React<br>
 👩‍💻 Cursando Bacharelado em Ciências da Computação com ênfase em desenvolvimento FullStack<br>
 📧 contate-me no email: douglasantosilvaemail@gmail.com<br>
 </P>
