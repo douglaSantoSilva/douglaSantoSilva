@@ -1,7 +1,7 @@
 ### Hi, I'm Douglas. 🧑‍💻
 <p>
 🔭 Em busca da minha primeira oportunidade como Front-end <br>
-📖 Estudando tecnologias como React<br>
+📖 Estudando tecnologias como React e typeScript<br>
 👩‍💻 Cursando Bacharelado em Ciências da Computação com ênfase em desenvolvimento FullStack<br>
 📧 contate-me no email: douglasantosilvaemail@gmail.com<br>
 </P>
@@ -17,7 +17,7 @@
 
 <br>
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,figma,sqlite,styledcomponents" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,figma,sqlite,styledcomponents,typescript" />
 </a>
 
   ##
